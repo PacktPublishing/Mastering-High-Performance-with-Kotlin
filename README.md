@@ -63,7 +63,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/MasteringHighPerformancewithKotlin_ColorImages.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Hands-On Microservices with Kotlin [[Packt]](https://www.packtpub.com/web-%20development/microservices-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788471459) [[Amazon]](https://www.amazon.com/dp/1788471458)
+* Hands-On Microservices with Kotlin [[Packt]](https://www.packtpub.com/web-development/microservices-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788471459) [[Amazon]](https://www.amazon.com/dp/1788471458)
 
 * Functional Kotlin [[Packt]](https://www.packtpub.com/application-development/functional-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788476485) [[Amazon]](https://www.amazon.com/dp/1788476484)
 
