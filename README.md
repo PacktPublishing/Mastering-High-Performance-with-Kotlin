@@ -67,7 +67,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Functional Kotlin [[Packt]](https://www.packtpub.com/application-development/functional-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788476485) [[Amazon]](https://www.amazon.com/dp/1788476484)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Igor Kucherenko**
 Igor Kucherenko is an Android developer at Techery, a software development company that uses Kotlin as the main language for Android development. Currently, he lives in Ukraine, where he is a speaker in the Kotlin Dnipro Community, which promotes Kotlin and shares knowledge with audiences at meetups. You can find his articles about Kotlin and Android development on Medium and a blog for Yalantis, where he worked previously.
 
