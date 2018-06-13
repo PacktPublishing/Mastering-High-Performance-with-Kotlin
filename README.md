@@ -42,10 +42,10 @@ Project also contains benchmarks that can be run using the following commands:
 
 The code will look like the following:
 ```
-class C {
-protected fun finalize() {
-// finalization logic
-}
+public inline fun measureTimeMillis(block: () -> Unit) : Long {
+val start = System.currentTimeMillis()
+block()
+return System.currentTimeMillis() - start
 }
 ```
 
