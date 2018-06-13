@@ -43,9 +43,9 @@ Project also contains benchmarks that can be run using the following commands:
 The code will look like the following:
 ```
 public inline fun measureTimeMillis(block: () -> Unit) : Long {
-val start = System.currentTimeMillis()
-block()
-return System.currentTimeMillis() - start
+    val start = System.currentTimeMillis()
+    block()
+    return System.currentTimeMillis() - start
 }
 ```
 
