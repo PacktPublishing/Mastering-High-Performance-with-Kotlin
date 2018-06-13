@@ -32,12 +32,12 @@ Project contains packages for each chapter that is splitted by sections:
 
 <img src="http://i64.tinypic.com/fypdvm.png" width="380" height="500"/>
 
-Most of the examples contain a "main" function that cab run by clicking the ![](https://www.jetbrains.com/help/img/idea/2018.1/run.png) icon in the left gutter and choose the Run or Debug command.
+Most of the examples contain a ```main``` function that can run by clicking the ![](https://www.jetbrains.com/help/img/idea/2018.1/run.png) icon in the left gutter and choose the Run or Debug command.
 
 Project also contains benchmarks that can be run using the following commands:
-1) Build a .jar file using this command at the root of the repository: ```mvn clean install```
-2) To run the .jar with fast benchmarking: ```java -jar target/benchmarks.jar -wi 0 -i 1 -f 1 -tu ns -bm avgt```
-   To run the .jar with default benchmarking: ```java -jar target/benchmarks.jar```
+1) Build a ```.jar``` file using this command at the root of the repository: ```mvn clean install```
+2) To run the ```.jar``` with fast benchmarking: ```java -jar target/benchmarks.jar -wi 0 -i 1 -f 1 -tu ns -bm avgt```
+   To run the ```.jar``` with default benchmarking: ```java -jar target/benchmarks.jar```
 
 
 The code will look like the following:
@@ -69,7 +69,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Igor Kucherenko**
-Igor Kucherenko is an Android developer at Techery, a software development company that uses Kotlin as the main language for Android development. Currently, he lives in Ukraine, where he is a speaker in the Kotlin Dnipro Community, which promotes Kotlin and shares knowledge with audiences at meetups. You can find his articles about Kotlin and Android development on Medium and a blog for Yalantis, where he worked previously.
+ is an Android developer at Techery, a software development company that uses Kotlin as the main language for Android development. Currently, he lives in Ukraine, where he is a speaker in the Kotlin Dnipro Community, which promotes Kotlin and shares knowledge with audiences at meetups. You can find his articles about Kotlin and Android development on Medium and a blog for Yalantis, where he worked previously.
 
 
 ### Suggestions and Feedback
