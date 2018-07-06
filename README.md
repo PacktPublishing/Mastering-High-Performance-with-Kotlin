@@ -68,7 +68,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Igor Kucherenko**
  is an Android developer at Techery, a software development company that uses Kotlin as the main language for Android development. Currently, he lives in Ukraine, where he is a speaker in the Kotlin Dnipro Community, which promotes Kotlin and shares knowledge with audiences at meetups. You can find his articles about Kotlin and Android development on Medium and a blog for Yalantis, where he worked previously.
-
-## Other books by the authors
+ 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
